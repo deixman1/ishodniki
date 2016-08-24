@@ -1,4 +1,6 @@
-# rekursi9 01
+# рекурсия 01
 source.cpp
-# rekursi9 quicksort  02
+# быстрая сортировка  02
 source1.cpp
+# нахождение факториала
+source2.cpp
