@@ -1,4 +1,4 @@
 # rekursi9 01
 source.cpp
-# rekursi9 quicksort  02
+# rekursi9 quickshort  02
 source1.cpp
