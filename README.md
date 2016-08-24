@@ -4,3 +4,5 @@ source.cpp
 source1.cpp
 # нахождение факториала
 source2.cpp
+# быстрая сортировка и нахождение числа
+source3.cpp
